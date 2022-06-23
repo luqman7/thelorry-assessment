@@ -1,0 +1,64 @@
+{
+  "song_playlist": {
+    "status": true,
+    "message": "Successfully get",
+    "data": [
+      {
+        "id": "001",
+        "song_name": "Smells like teen spirit",
+        "band_name": "Pearl Jamz",
+        "year": "1991",
+        "downloaded": true
+      },
+      {
+        "id": "002",
+        "song_name": "In the end",
+        "band_name": "Linkin Parx",
+        "year": "2009",
+        "downloaded": false
+      },
+      {
+        "id": "003",
+        "song_name": "Last kiss",
+        "band_name": "Pearl Jamz",
+        "year": "1994",
+        "downloaded": true
+      },
+      {
+        "id": "004",
+        "song_name": "Someday",
+        "band_name": "The Stonks",
+        "year": "2010",
+        "downloaded": true
+      },
+      {
+        "id": "005",
+        "song_name": "American Idiot",
+        "band_name": "Blue Day",
+        "year": "2013",
+        "downloaded": false
+      },
+      {
+        "id": "006",
+        "song_name": "Wake me up when working day ends",
+        "band_name": "Green Day",
+        "year": "2019",
+        "downloaded": true
+      },
+      {
+        "id": "007",
+        "song_name": "Ghost of you",
+        "band_name": "My Chenical Romance",
+        "year": "2009",
+        "downloaded": false
+      },
+      {
+        "id": "008",
+        "song_name": "Yesterday",
+        "band_name": "The Beates",
+        "year": "1957",
+        "downloaded": false
+      }
+    ]
+  }
+}
